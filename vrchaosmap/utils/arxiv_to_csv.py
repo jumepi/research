@@ -8,9 +8,11 @@ from tqdm import tqdm
 api_endpoint = 'http://export.arxiv.org/api/query?'
 
 # 検索クエリの設定
-query = '"mixed reality"'
+query = '""'
 query_name = query.replace(' ', '_')
+query_name = query_name.replace('"', '')
 output_dir = f'../output/arxiv/'
+
 output_file_name = f'{query_name}.csv'
 os.makedirs(output_dir, exist_ok=True)
 output_file_path = os.path.join(output_dir, output_file_name)
