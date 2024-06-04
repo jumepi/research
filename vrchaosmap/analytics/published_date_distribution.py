@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import os
 
 file_name = 'mixed_reality'
-input_file_path = f'../output/arxiv/"{file_name}".csv'
+input_file_path = f'../output/arxiv/{file_name}.csv'
 
 # 出力ディレクトリを作成
 output_dir = '../output/images/arxiv/'

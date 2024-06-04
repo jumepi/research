@@ -13,7 +13,7 @@ plt.figure(figsize=(10, 6))
 
 # 各ファイルを順番に読み込む
 for file_name in file_names:
-    input_file_path = f'../output/arxiv/"{file_name}".csv'
+    input_file_path = f'../output/arxiv/{file_name}.csv'
 
     # CSVファイルを読み込む
     df = pd.read_csv(input_file_path, encoding='latin1')
