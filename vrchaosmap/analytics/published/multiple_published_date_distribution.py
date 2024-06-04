@@ -6,7 +6,7 @@ import os
 file_names = ['augmented_reality', 'virtual_reality', 'mixed_reality']
 
 # 出力ディレクトリを作成
-output_dir = '../output/images/arxiv/'
+output_dir = '../../output/images/arxiv/'
 os.makedirs(output_dir, exist_ok=True)
 
 plt.figure(figsize=(10, 6))

@@ -6,7 +6,7 @@ file_name = 'mixed_reality'
 input_file_path = f'../output/arxiv/{file_name}.csv'
 
 # 出力ディレクトリを作成
-output_dir = '../output/images/arxiv/'
+output_dir = '../../output/images/arxiv/'
 os.makedirs(output_dir, exist_ok=True)
 
 # CSVファイルを読み込む
