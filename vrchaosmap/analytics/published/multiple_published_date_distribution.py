@@ -6,14 +6,14 @@ import os
 file_names = ['augmented_reality', 'virtual_reality', 'mixed_reality']
 
 # 出力ディレクトリを作成
-output_dir = '../../output/images/arxiv/'
+output_dir = '../../output/images/arxiv/published_date/'
 os.makedirs(output_dir, exist_ok=True)
 
 plt.figure(figsize=(10, 6))
 
 # 各ファイルを順番に読み込む
 for file_name in file_names:
-    input_file_path = f'../output/arxiv/{file_name}.csv'
+    input_file_path = f'../../output/arxiv/csv/{file_name}.csv'
 
     # CSVファイルを読み込む
     df = pd.read_csv(input_file_path, encoding='latin1')
@@ -38,6 +38,7 @@ plt.ylabel('Number of Publications')
 plt.legend()
 
 # グラフを画像として保存
-plt.savefig(f'../output/images/arxiv/combined.png')
+
+plt.savefig(f'{output_dir}/{"_".join(file_names)}.png')
 
 plt.show()

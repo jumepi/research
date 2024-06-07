@@ -8,11 +8,12 @@ from tqdm import tqdm
 api_endpoint = 'http://export.arxiv.org/api/query?'
 
 # 検索クエリの設定
-query = '"virtual reality"'
+query = '"mixed reality"'
 query_name = query.replace(' ', '_')
 query_name = query_name.replace('"', '')
 
 output_dir = f'../output/arxiv/csv/'
+
 output_file_name = f'{query_name}.csv'
 os.makedirs(output_dir, exist_ok=True)
 output_file_path = os.path.join(output_dir, output_file_name)
@@ -33,8 +34,8 @@ with open(output_file_path, 'w', newline='', encoding='utf-8') as csvfile:
 
         feed = feedparser.parse(response.text)
         print(feed)
-        # if feed.entries == []:
-        #             break
+        if feed.entries == []:
+            break
 
         for entry in feed.entries:
             writer.writerow({

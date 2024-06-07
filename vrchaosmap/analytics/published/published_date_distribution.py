@@ -2,11 +2,11 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import os
 
-file_name = 'mixed_reality'
-input_file_path = f'../output/arxiv/{file_name}.csv'
+file_name = 'virtual_reality'
+input_file_path = f'../../output/arxiv/csv/{file_name}.csv'
 
 # 出力ディレクトリを作成
-output_dir = '../../output/images/arxiv/'
+output_dir = '../../output/images/arxiv/published_date'
 os.makedirs(output_dir, exist_ok=True)
 
 # CSVファイルを読み込む
@@ -28,6 +28,6 @@ plt.xlabel('Year')
 plt.ylabel('Number of Publications')
 
 # グラフを画像として保存
-plt.savefig(f'../output/images/arxiv/{file_name}.png')
+plt.savefig(f'../../output/images/arxiv/published_date/{file_name}.png')
 
 plt.show()
