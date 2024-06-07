@@ -1,0 +1,263 @@
+﻿Group Name,Category ID,Category Name (Japanese)
+Physics,physics.acc-ph,加速器物理学
+Physics,physics.ao-ph,大気・海洋物理学
+Physics,physics.app-ph,応用物理学
+Physics,physics.atm-clus,原子・分子クラスター
+Physics,physics.atom-ph,原子
+Electrical Engineering and Systems Science,eess.AS,音声・音声処理
+Electrical Engineering and Systems Science,eess.IV,画像・映像処理
+Electrical Engineering and Systems Science,eess.SP,信号処理
+Electrical Engineering and Systems Science,eess.SY,システムと制御
+Economics,econ.EM,計量経済学
+Economics,econ.GN,一般経済学
+Economics,econ.TH,理論経済学
+Computer Science,cs.AI,人工知能
+Computer Science,cs.AR,ハードウェアアーキテクチャ
+Computer Science,cs.CC,計算複雑性理論
+Computer Science,cs.CE,計算工学、金融、科学
+Computer Science,cs.CG,計算幾何学
+Computer Science,cs.CL,計算と自然言語処理
+Computer Science,cs.CR,暗号とセキュリティ
+Computer Science,cs.CV,コンピュータビジョンとパターン認識
+Computer Science,cs.CY,コンピュータと社会
+Computer Science,cs.DB,データベース
+Computer Science,cs.DC,分散、並列、クラスタコンピューティング
+Computer Science,cs.DL,デジタルライブラリ
+Computer Science,cs.DM,離散数学
+Computer Science,cs.DS,データ構造とアルゴリズム
+Computer Science,cs.ET,新興技術
+Computer Science,cs.FL,形式言語とオートマトン理論
+Computer Science,cs.GL,総合文献
+Computer Science,cs.GR,グラフィックス
+Computer Science,cs.GT,コンピュータサイエンスとゲーム理論
+Computer Science,cs.HC,ヒューマンコンピュータインタラクション
+Computer Science,cs.IR,情報検索
+Computer Science,cs.IT,情報理論
+Computer Science,cs.LG,機械学習
+Computer Science,cs.LO,コンピュータサイエンスにおける論理学
+Computer Science,cs.MA,マルチエージェントシステム
+Computer Science,cs.MM,マルチメディア
+Computer Science,cs.MS,数値計算ソフトウェア
+Computer Science,cs.NA,数値解析
+Computer Science,cs.NE,ニューラルネットワークと進化計算
+Computer Science,cs.NI,ネットワークとインターネットアーキテクチャ
+Computer Science,cs.OH,その他のコンピュータサイエンス
+Computer Science,cs.OS,オペレーティングシステム
+Computer Science,cs.PF,パフォーマンス
+Computer Science,cs.PL,プログラミング言語
+Computer Science,cs.RO,ロボティクス
+Computer Science,cs.SC,数式処理
+Computer Science,cs.SD,音響
+Computer Science,cs.SE,ソフトウェア工学
+Computer Science,cs.SI,ソーシャルネットワークと情報ネットワーク
+Computer Science,cs.SY,システムと制御
+Mathematics,math.AC,可換代数
+Mathematics,math.AG,代数幾何学
+Mathematics,math.AP,偏微分方程式の解析
+Mathematics,math.AT,代数的位相幾何学
+Mathematics,math.CA,古典解析と常微分方程式
+Mathematics,math.CO,組合せ論
+Mathematics,math.CT,圏論
+Mathematics,math.CV,複素解析
+Mathematics,math.DG,微分幾何学
+Mathematics,math.DS,力学系
+Mathematics,math.FA,函数解析
+Mathematics,math.GM,一般数学
+Mathematics,math.GN,一般位相幾何学
+Mathematics,math.GR,群論
+Mathematics,math.GT,幾何学的位相幾何学
+Mathematics,math.HO,数学史と概論
+Mathematics,math.IT,情報理論
+Mathematics,math.KT,K理論とホモロジー
+Mathematics,math.LO,論理学
+Mathematics,math.MG,計量幾何学
+Mathematics,math.MP,数理物理学
+Mathematics,math.NA,数値解析
+Mathematics,math.NT,数論
+Mathematics,math.OA,作用素環
+Mathematics,math.OC,最適化と制御
+Mathematics,math.PR,確率論
+Mathematics,math.QA,量子代数
+Mathematics,math.RA,環と代数
+Mathematics,math.RT,表現論
+Mathematics,math.SG,シンプレクティック幾何学
+Mathematics,math.SP,スペクトル理論
+Mathematics,math.ST,統計理論
+Quantitative Biology,q-bio.BM,生体分子
+Quantitative Biology,q-bio.CB,細胞行動
+Quantitative Biology,q-bio.GN,ゲノミクス
+Quantitative Biology,q-bio.MN,分子ネットワーク
+Quantitative Biology,q-bio.NC,神経と認知
+Quantitative Biology,q-bio.OT,その他の定量生物学
+Quantitative Biology,q-bio.PE,集団と進化
+Quantitative Biology,q-bio.QM,定量的方法
+Quantitative Biology,q-bio.SC,細胞内過程
+Quantitative Biology,q-bio.TO,組織と臓器
+Quantitative Biology,q-fin.CP,計算ファイナンス
+Quantitative Biology,q-fin.EC,経済学
+Quantitative Biology,q-fin.GN,一般的なファイナンス
+Quantitative Biology,q-fin.MF,数学的ファイナンス
+Quantitative Biology,q-fin.PM,ポートフォリオ管理
+Quantitative Biology,q-fin.PR,証券の価格設定
+Quantitative Biology,q-fin.RM,リスク管理
+Quantitative Biology,q-fin.ST,統計ファイナンス
+Quantitative Biology,q-fin.TR,取引と市場ミクロ構造
+Statistics,stat.AP,応用
+Statistics,stat.CO,計算
+Statistics,stat.ME,方法論
+Statistics,stat.ML,機械学習
+Statistics,stat.OT,その他の統計
+Statistics,stat.TH,統計理論
+,astro-ph,天体物理学
+,astro-ph.CO,宇宙論および非銀河天体物理学
+,astro-ph.EP,地球および惑星天体物理学
+,astro-ph.GA,銀河の天体物理学
+,astro-ph.HE,高エネルギー天体現象
+,astro-ph.IM,天体物理学のための機器および方法
+,astro-ph.SR,太陽および恒星天体物理学
+,cond-mat.dis-nn,無秩序システムおよびニューラルネットワーク
+,cond-mat.mes-hall,メゾスケールおよびナノスケール物理学
+,cond-mat.mtrl-sci,材料科学
+,cond-mat.other,その他の凝縮系物理学
+,cond-mat.quant-gas,量子ガス
+,cond-mat.soft,ソフト凝縮系
+,cond-mat.stat-mech,統計力学
+,cond-mat.str-el,強相関電子系
+,cond-mat.supr-con,超伝導
+,cs.AI,人工知能
+,cs.AR,ハードウェアアーキテクチャ
+,cs.CC,計算複雑性
+,cs.CE,計算工学、金融、および科学
+,cs.CG,計算幾何学
+,cs.CL,計算と言語
+,cs.CR,暗号学およびセキュリティ
+,cs.CV,コンピュータビジョンおよびパターン認識
+,cs.CY,コンピュータと社会
+,cs.DB,データベース
+,cs.DC,分散並列クラスタ計算
+,cs.DL,デジタルライブラリ
+,cs.DM,離散数学
+,cs.DS,データ構造およびアルゴリズム
+,cs.ET,新興技術
+,cs.FL,形式言語およびオートマトン理論
+,cs.GL,一般文学
+,cs.GR,グラフィックス
+,cs.GT,コンピュータサイエンスとゲーム理論
+,cs.HC,人間とコンピュータの相互作用
+,cs.IR,情報検索
+,cs.IT,情報理論
+,cs.LG,機械学習
+,cs.LO,計算機科学における論理
+,cs.MA,マルチエージェントシステム
+,cs.MM,マルチメディア
+,cs.MS,数学ソフトウェア
+,cs.NA,数値解析
+,cs.NE,ニューラルおよび進化計算
+,cs.NI,ネットワーキングおよびインターネットアーキテクチャ
+,cs.OH,その他のコンピュータサイエンス
+,cs.OS,オペレーティングシステム
+,cs.PF,パフォーマンス
+,cs.PL,プログラミング言語
+,cs.RO,ロボティクス
+,cs.SC,記号計算
+,cs.SD,サウンド
+,cs.SE,ソフトウェア工学
+,cs.SI,社会および情報ネットワーク
+,cs.SY,システムと制御
+,econ.EM,計量経済学
+,eess.AS,オーディオおよび音声処理
+,eess.IV,画像およびビデオ処理
+,eess.SP,信号処理
+,gr-qc,一般相対性理論および量子宇宙論
+,hep-ex,高エネルギー物理学 - 実験
+,hep-lat,高エネルギー物理学 - ラティス
+,hep-ph,高エネルギー物理学 - 現象論
+,hep-th,高エネルギー物理学 - 理論
+,math.AC,可換代数
+,math.AG,代数幾何学
+,math.AP,偏微分方程式の解析
+,math.AT,代数トポロジー
+,math.CA,古典解析および常微分方程式
+,math.CO,組み合わせ論
+,math.CT,カテゴリ理論
+,math.CV,複素変数
+,math.DG,微分幾何学
+,math.DS,力学系
+,math.FA,関数解析学
+,math.GM,一般数学
+,math.GN,一般トポロジー
+,math.GR,群論
+,math.GT,幾何トポロジー
+,math.HO,歴史および概要
+,math.IT,情報理論
+,math.KT,K理論およびホモロジー
+,math.LO,論理
+,math.MG,メトリック幾何学
+,math.MP,数理物理学
+,math.NA,数値解析
+,math.NT,数論
+,math.OA,演算子代数
+,math.OC,最適化および制御
+,math.PR,確率
+,math.QA,量子代数
+,math.RA,環および代数
+,math.RT,表現論
+,math.SG,シンプレクティック幾何学
+,math.SP,スペクトル理論
+,math.ST,統計理論
+,math-ph,数理物理学
+,nlin.AO,適応および自己組織化システム
+,nlin.CD,カオス動力学
+,nlin.CG,セルオートマトンおよびラティスガス
+,nlin.PS,パターン形成およびソリトン
+,nlin.SI,完全可解および積分可能システム
+,nucl-ex,核実験
+,nucl-th,核理論
+,physics.acc-ph,加速器物理学
+,physics.ao-ph,大気および海洋物理学
+,physics.app-ph,応用物理学
+,physics.atm-clus,原子および分子クラスター
+,physics.atom-ph,原子物理学
+,physics.bio-ph,生物物理学
+,physics.chem-ph,化学物理学
+,physics.class-ph,古典物理学
+,physics.comp-ph,計算物理学
+,physics.data-an,データ解析、統計および確率
+,physics.ed-ph,物理教育
+,physics.flu-dyn,流体力学
+,physics.gen-ph,一般物理学
+,physics.geo-ph,地球物理学
+,physics.hist-ph,物理学の歴史および哲学
+,physics.ins-det,計測および検出器
+,physics.med-ph,医学物理学
+,physics.optics,光学
+,physics.plasm-ph,プラズマ物理学
+,physics.pop-ph,人気物理学
+,physics.soc-ph,物理学と社会
+,physics.space-ph,宇宙物理学
+,q-bio.BM,生体分子
+,q-bio.CB,細胞挙動
+,q-bio.GN,ゲノミクス
+,q-bio.MN,分子ネットワーク
+,q-bio.NC,神経および認知
+,q-bio.OT,その他の定量生物学
+,q-bio.PE,個体群および進化
+,q-bio.QM,定量的手法
+,q-bio.SC,細胞内プロセス
+,q-bio.TO,組織および臓器
+,q-fin.CP,計算金融
+,q-fin.EC,経済学
+,q-fin.GN,一般金融
+,q-fin.MF,数理金融
+,q-fin.PM,ポートフォリオ管理
+,q-fin.PR,証券価格設定
+,q-fin.RM,リスク管理
+,q-fin.ST,統計金融
+,q-fin.TR,取引および市場微細構造
+,quant-ph,量子物理学
+,stat.AP,応用統計
+,stat.CO,計算統計
+,stat.ME,方法論
+,stat.ML,機械学習
+,stat.OT,その他の統計学
+,stat.TH,統計理論
