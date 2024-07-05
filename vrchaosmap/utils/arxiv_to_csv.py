@@ -5,7 +5,7 @@ import csv
 from tqdm import tqdm
 
 # arXivのAPIエンドポイント
-api_endpoint = 'http://export.arxiv.org/api/query?'
+api_endpoint = 'https://export.arxiv.org/api/query?'
 
 # 検索クエリの設定
 query = '"mixed reality"'

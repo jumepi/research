@@ -1,16 +1,15 @@
 import os
 
 import matplotlib.pyplot as plt
+import japanize_matplotlib
 from collections import Counter
 import pandas as pd
-import matplotlib as mpl
 
 # matplotlibの設定を取得
-mpl.rcParams['font.family'] = 'MS Gothic'  # 'MS Gothic'をインストールされている日本語対応フォントに置き換えてください
 
 # カテゴリデータ
 input_dir = '../../output/arxiv/csv/'
-name = 'mixed_reality'
+name = 'augmented_reality'
 file_name = f'{name}.csv'
 input_file_path = input_dir + file_name
 
@@ -36,7 +35,9 @@ flat_list = [category_japanese_dict.get(item, item) for item in flat_list if ite
 # 各カテゴリの出現回数をカウント
 counter = Counter(flat_list)
 
-counter = dict(sorted(counter.items(), key=lambda x: x[1], reverse=True))
+# カウント結果をソートして上位10項目を抽出
+top_n = 30
+counter = dict(sorted(counter.items(), key=lambda x: x[1], reverse=True)[:top_n])
 
 # カウント結果をラベルと値に分ける
 labels = list(counter.keys())
